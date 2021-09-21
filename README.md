@@ -14,10 +14,6 @@ Starter code was used in this project which is index.html and styles.css provide
     -CSS
     -Javascript  
 #### Development process is stated through commits.
-## Project Tree
-root___css___styles.css
-    |__js___app.js
-    |__index.html
-    |__README.md
+
 
     
