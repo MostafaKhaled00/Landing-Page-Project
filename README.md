@@ -13,7 +13,7 @@ Starter code was used in this project which is index.html and styles.css provide
     -HTML5
     -CSS
     -Javascript  
-#### Development process is stated through commits.
+#### Development process is stated through comments.
 
 
     
